@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Besiege machine save file.-->
+<Machine version="1" bsgVersion="1.1" name="G66">
+    <!--The machine's position and rotation.-->
+    <Global>
+        <Position x="0" y="5.582726" z="0" />
+        <Rotation x="0" y="0" z="0" w="1" />
+    </Global>
+    <!--The machine's additional data or modded data.-->
+    <Data>
+        <String key="modLoader-machineData">MachineData
+</String>
+    </Data>
+    <!--The machine's blocks.-->
+    <Blocks>
+        <Block id="0" guid="cb1773d7-1bcd-4efb-af10-edeb5c6e7f93">
+            <Transform>
+                <Position x="0" y="0" z="0" />
+                <Rotation x="0" y="0" z="0" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="18" guid="d7bb98b5-9348-4f95-af15-2cc3a1519983">
+            <Transform>
+                <Position x="0.7" y="0" z="0" />
+                <Rotation x="1.236345E-07" y="0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <StringArray key="bmt-extend">RightArrow</StringArray>
+                <Boolean key="bmt-toggle">False</Boolean>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="preextended">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="18" guid="f06a8a47-3fe5-4ad9-ab3f-424b93a4a02e">
+            <Transform>
+                <Position x="-0.7" y="0" z="0" />
+                <Rotation x="-1.236345E-07" y="-0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <StringArray key="bmt-extend">LeftArrow</StringArray>
+                <Boolean key="bmt-toggle">False</Boolean>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="preextended">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="18" guid="9eff7642-1859-48fc-9612-17a5e85979eb">
+            <Transform>
+                <Position x="-0.7" y="0" z="1.2" />
+                <Rotation x="1.236345E-07" y="-0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <StringArray key="bmt-extend">RightArrow</StringArray>
+                <Boolean key="bmt-toggle">False</Boolean>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="preextended">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="18" guid="2abf1f10-3070-4ad9-a068-3dc607f5232c">
+            <Transform>
+                <Position x="0.7" y="0" z="1.2" />
+                <Rotation x="-1.236345E-07" y="0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <StringArray key="bmt-extend">LeftArrow</StringArray>
+                <Boolean key="bmt-toggle">False</Boolean>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="preextended">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="7" guid="74ec0fc0-49eb-40c8-be23-3fb66b007ea1">
+            <Transform>
+                <Position x="1.7" y="0" z="1.2" />
+                <Rotation x="-1.236345E-07" y="0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.907345E-07</X>
+                    <Y>1.188951E-06</Y>
+                    <Z>-3.400003</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="024ce63a-59fc-4b2d-b023-50a54586ad95">
+            <Transform>
+                <Position x="-1.7" y="0" z="0" />
+                <Rotation x="-1.236345E-07" y="-0.7071068" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.026558E-07</X>
+                    <Y>-2.12601E-13</Y>
+                    <Z>-3.400003</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="30d8ee49-f7b3-4f2e-b486-9bd350f35e0a">
+            <Transform>
+                <Position x="-1.2" y="1" z="2.2" />
+                <Rotation x="0" y="0" z="1.748456E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.2</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="3a525531-d2f3-4e93-b2cc-f7d7fbbaf4c6">
+            <Transform>
+                <Position x="1.7" y="0" z="1.2" />
+                <Rotation x="0.4999997" y="0.5000001" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="5" guid="9f9d6ee5-24c3-4c64-8f69-c6ccafc86159">
+            <Transform>
+                <Position x="-1.7" y="0" z="1.2" />
+                <Rotation x="-0.4999997" y="-0.5000001" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="5" guid="586f6d9f-2a68-426b-be49-b116cc1517f4">
+            <Transform>
+                <Position x="-1.7" y="1" z="2.7" />
+                <Rotation x="-0.4999999" y="-0.5000002" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="5" guid="46f18d32-dac2-4a4d-a074-38f8ee8ec34f">
+            <Transform>
+                <Position x="1.7" y="1" z="2.7" />
+                <Rotation x="0.4999999" y="0.5000002" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="7" guid="281f14b9-04cf-45e2-a89a-81a6a645a96f">
+            <Transform>
+                <Position x="2.7" y="1.430511E-06" z="1.2" />
+                <Rotation x="0.4999998" y="0.5000001" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999996</X>
+                    <Y>1.5</Y>
+                    <Z>-3.57628E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="de830925-5280-4d2c-8201-8a24808d1916">
+            <Transform>
+                <Position x="-2.7" y="0" z="1.2" />
+                <Rotation x="-0.4999998" y="-0.5000001" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.000002</X>
+                    <Y>-1.500001</Y>
+                    <Z>-2.980235E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="c43bb647-62fa-466d-b890-7c5538061d82">
+            <Transform>
+                <Position x="1.2" y="1.5" z="2.7" />
+                <Rotation x="-0.5000002" y="0.4999999" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.700001</X>
+                    <Y>1.677871E-06</Y>
+                    <Z>-0.9999996</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="909150df-96af-4c10-a1e1-2d57d6a12817">
+            <Transform>
+                <Position x="-1.2" y="1.5" z="2.7" />
+                <Rotation x="-0.5000002" y="0.4999999" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.700001</X>
+                    <Y>1.916289E-06</Y>
+                    <Z>-0.9999996</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="16" guid="8c56c1bc-91e3-49e7-9a2e-2f3e4c81735c">
+            <Transform>
+                <Position x="2.2" y="0.5" z="2.7" />
+                <Rotation x="0.5000001" y="-0.4999998" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="7b02edb3-74c9-4bb3-8870-48e9b3074f50">
+            <Transform>
+                <Position x="-2.2" y="0.5" z="2.7" />
+                <Rotation x="0.5000002" y="-0.5" z="0.4999999" w="0.4999999" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="44" guid="cea9f5a0-1038-497a-a967-eca835424112">
+            <Transform>
+                <Position x="-1.699999" y="-1" z="2.699999" />
+                <Rotation x="0.5" y="0.5000002" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="44" guid="35dca907-88d8-4a05-a813-1308ead584ca">
+            <Transform>
+                <Position x="1.700001" y="-1" z="2.700001" />
+                <Rotation x="-0.4999999" y="-0.5000001" z="0.5000001" w="0.5000001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="42" guid="406ab849-ceb1-40f9-b76a-050d57f6ec01">
+            <Transform>
+                <Position x="1.2" y="0" z="-0.5000001" />
+                <Rotation x="0.7071068" y="-0.7071068" z="0" w="0" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="42" guid="b2b3bc14-d782-41fe-8d8b-93baddd35a72">
+            <Transform>
+                <Position x="-1.2" y="0" z="-0.5000001" />
+                <Rotation x="0.7071068" y="-0.7071068" z="0" w="0" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="18" guid="a07c12f1-8e2e-45ea-a923-3b17a27d8b2a">
+            <Transform>
+                <Position x="0" y="0" z="0.7" />
+                <Rotation x="0" y="0" z="1.748456E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <StringArray key="bmt-extend">H</StringArray>
+                <Boolean key="bmt-toggle">False</Boolean>
+                <Single key="bmt-speed">1</Single>
+                <Boolean key="preextended">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="19" guid="cc0d7e4c-fd68-4579-aaef-8e6fe5cf0519">
+            <Transform>
+                <Position x="-1.7" y="0" z="-1" />
+                <Rotation x="-0.5000001" y="-0.5" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="19" guid="da1c4bef-f23f-452a-9c12-ee75cc8f651c">
+            <Transform>
+                <Position x="1.7" y="0" z="-1" />
+                <Rotation x="0.5000001" y="0.5" z="0.5" w="0.5" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="2" guid="a2043156-8e7b-4eef-a324-6027a0bbbb4b">
+            <Transform>
+                <Position x="-2.7" y="-1" z="2.7" />
+                <Rotation x="6.602633E-08" y="-0.7071067" z="6.041423E-08" w="0.7071069" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">False</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="2" guid="ffe137a0-a142-4354-92d4-21bca0e7aa72">
+            <Transform>
+                <Position x="2.700001" y="-1" z="2.7" />
+                <Rotation x="-2.806077E-09" y="0.7071069" z="1.236345E-07" w="0.7071067" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">False</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="35" guid="d124667d-e4fe-4ef9-b144-178b5516bd41">
+            <Transform>
+                <Position x="1.2" y="1" z="2.2" />
+                <Rotation x="0" y="0" z="1.748456E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.2</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="53691cea-17da-493c-a616-93d2dd5973de">
+            <Transform>
+                <Position x="-2.200001" y="1.5" z="-4.000001" />
+                <Rotation x="0.707107" y="-4.775902E-08" z="8.99058E-08" w="0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="80242167-582b-4275-869e-6c2c22c9a154">
+            <Transform>
+                <Position x="-1.700001" y="-4.768372E-07" z="-4.000002" />
+                <Rotation x="3.132953E-07" y="0.7071067" z="3.554421E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="16" guid="78b2bc57-9c7b-4831-96f4-58192a007e73">
+            <Transform>
+                <Position x="2.199999" y="1.5" z="-4" />
+                <Rotation x="0.707107" y="1.41902E-07" z="-9.975496E-08" w="0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="a28a558b-28d4-4639-bc03-9807e02add35">
+            <Transform>
+                <Position x="1.699999" y="-4.768372E-07" z="-4.000001" />
+                <Rotation x="1.081733E-07" y="-0.7071067" z="-6.602625E-08" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="7" guid="85d5523d-56ab-4f58-a7c2-93e60ff2db8d">
+            <Transform>
+                <Position x="-1.700001" y="2" z="-4" />
+                <Rotation x="1.657813E-07" y="0.7071069" z="2.079282E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.000003</X>
+                    <Y>-1.499998</Y>
+                    <Z>0.4999995</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="40bc5fc7-3e4b-43f5-bca1-f3663958dd1f">
+            <Transform>
+                <Position x="1.699999" y="2" z="-4" />
+                <Rotation x="-3.934068E-08" y="-0.7071066" z="8.148784E-08" w="0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4</X>
+                    <Y>-1.500001</Y>
+                    <Z>0.5000014</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="5b71b239-c48c-480c-9be0-b80710192399">
+            <Transform>
+                <Position x="-2.200001" y="2" z="-4.5" />
+                <Rotation x="1.450433E-07" y="1" z="2.384185E-07" w="-7.750186E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.4</X>
+                    <Y>0.5000015</Y>
+                    <Z>-0.5000014</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="7b762e5b-b656-4fa3-814c-b92882fe0420">
+            <Transform>
+                <Position x="2.199999" y="2" z="-4.5" />
+                <Rotation x="1.450432E-07" y="1" z="2.384186E-07" w="-3.457228E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.4</X>
+                    <Y>0.499999</Y>
+                    <Z>-0.4999967</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="8824153b-2348-4a31-a91a-40f4589fdc24">
+            <Transform>
+                <Position x="-2.199999" y="-1" z="-5.5" />
+                <Rotation x="3.198888E-07" y="1" z="2.980243E-08" w="4.470348E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="1eb79fa7-5fa9-4ed9-b115-14459c88525f">
+            <Transform>
+                <Position x="2.200001" y="-1" z="-5.5" />
+                <Rotation x="3.198887E-07" y="1" z="-2.980232E-08" w="1.788139E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="2" guid="028f27b3-3b3c-4382-b3f2-8363ea53bb94">
+            <Transform>
+                <Position x="-2.699998" y="-0.9999995" z="-6.000001" />
+                <Rotation x="-3.287566E-07" y="-0.7071071" z="-1.236346E-07" w="0.7071065" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="2" guid="35cd7ecd-7236-43a3-9f15-67f5a5d4acfc">
+            <Transform>
+                <Position x="2.700001" y="-1" z="-6" />
+                <Rotation x="3.287565E-07" y="0.7071067" z="-1.236344E-07" w="0.7071069" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="7" guid="f3c9f476-46f8-4083-b0fb-e156c38495a8">
+            <Transform>
+                <Position x="-2.199998" y="-1" z="-6.5" />
+                <Rotation x="4.947344E-07" y="1" z="2.98025E-08" w="4.470348E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.9999979</X>
+                    <Y>1.000001</Y>
+                    <Z>-1.999998</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="499a7d8b-7110-4ad8-b5ef-0c782ffbf2e6">
+            <Transform>
+                <Position x="2.200001" y="-1" z="-6.5" />
+                <Rotation x="4.947343E-07" y="1" z="-2.980229E-08" w="1.788139E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.000003</X>
+                    <Y>0.9999984</Y>
+                    <Z>-2</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="5041e409-403f-466e-ae5d-89ca4983da97">
+            <Transform>
+                <Position x="-2.700001" y="2" z="-4" />
+                <Rotation x="-3.934078E-08" y="-0.7071067" z="8.148766E-08" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.000002</X>
+                    <Y>-2.000001</Y>
+                    <Z>-1.000001</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="51b63dd1-aa02-4c84-9535-e06821bb5e93">
+            <Transform>
+                <Position x="2.699999" y="2" z="-4" />
+                <Rotation x="1.657812E-07" y="0.7071071" z="2.079282E-07" w="0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.000001</X>
+                    <Y>-1.999998</Y>
+                    <Z>-1.000003</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="7267d28e-a7eb-4255-9dc0-b149d5590277">
+            <Transform>
+                <Position x="2.2" y="-1" z="-3" />
+                <Rotation x="-2.980242E-08" y="-1.788139E-07" z="2.046479E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="2" guid="2872c3f4-969b-441a-bed3-a8a4e644f539">
+            <Transform>
+                <Position x="2.7" y="-1" z="-2.5" />
+                <Rotation x="-4.214698E-08" y="0.7071067" z="2.47269E-07" w="0.7071069" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">False</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="2" guid="84fd5c8c-7553-4344-a1e3-cc00ae8bf71a">
+            <Transform>
+                <Position x="-2.700001" y="-1" z="-2.500001" />
+                <Rotation x="4.214667E-08" y="-0.7071071" z="2.47269E-07" w="0.7071065" />
+                <Scale x="1.3" y="1.3" z="2" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">False</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">2</Single>
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="19" guid="6de482a2-3a47-4cd1-86d6-356961eaea86">
+            <Transform>
+                <Position x="-2.700001" y="-4.768372E-07" z="-4.000002" />
+                <Rotation x="1.081731E-07" y="-0.7071069" z="-6.602637E-08" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="19" guid="6712c950-cd83-4a49-8126-5cec186f1936">
+            <Transform>
+                <Position x="2.699999" y="-4.768372E-07" z="-4.000001" />
+                <Rotation x="3.132953E-07" y="0.7071069" z="3.554422E-07" w="0.7071067" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="7" guid="831fbf31-25b6-4233-bd2e-5efedbe3647e">
+            <Transform>
+                <Position x="2.200001" y="-1" z="-6.5" />
+                <Rotation x="4.947343E-07" y="1" z="-2.980229E-08" w="1.788139E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.499998</X>
+                    <Y>1.000001</Y>
+                    <Z>-2.499998</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="3bd05090-f6e1-48b8-b7d7-e4486a5c856d">
+            <Transform>
+                <Position x="-2.199998" y="-1" z="-6.5" />
+                <Rotation x="4.947344E-07" y="1" z="2.98025E-08" w="4.470348E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.500002</X>
+                    <Y>0.9999982</Y>
+                    <Z>-2.5</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="03d32526-3603-4172-9068-0c661450e26a">
+            <Transform>
+                <Position x="-2.200001" y="-1" z="-3" />
+                <Rotation x="2.980219E-08" y="-4.470348E-07" z="2.046478E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="41157879-6dc5-46e8-8e48-901470ae513b">
+            <Transform>
+                <Position x="2.200001" y="-1.5" z="-6" />
+                <Rotation x="0.7071068" y="-4.762705E-07" z="2.387953E-08" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.283525E-06</X>
+                    <Y>3.500001</Y>
+                    <Z>-4.172335E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="deb08e07-fdce-426a-a3d1-c3a9844f0bbc">
+            <Transform>
+                <Position x="-2.199998" y="-1.5" z="-6" />
+                <Rotation x="0.7071068" y="-6.659315E-07" z="2.135403E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.968979E-06</X>
+                    <Y>3.500001</Y>
+                    <Z>-4.172342E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="d4a7c648-f9a8-4a48-8a79-2cfac822033a">
+            <Transform>
+                <Position x="2.199999" y="-1" z="-2" />
+                <Rotation x="-2.980245E-08" y="-1.788139E-07" z="3.794935E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1</X>
+                    <Y>0.9999984</Y>
+                    <Z>-1.500002</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="1881dcd7-cd96-429f-bc9a-acadf07c3b9c">
+            <Transform>
+                <Position x="-2.200001" y="-1" z="-2" />
+                <Rotation x="2.980211E-08" y="-4.470348E-07" z="3.794934E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>1</Y>
+                    <Z>-1.500001</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="16" guid="cd0640ee-4b2d-4a2d-8988-0a75533c0f3f">
+            <Transform>
+                <Position x="-2.199997" y="0.5" z="-6" />
+                <Rotation x="-0.7071068" y="1.573632E-07" z="-2.950281E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="7ee98127-295f-43f9-9a63-793e2441ff85">
+            <Transform>
+                <Position x="2.200002" y="0.5" z="-6" />
+                <Rotation x="-0.7071068" y="3.470239E-07" z="-1.053671E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="579e5489-4e7e-4111-ab2e-7589ba5085a8">
+            <Transform>
+                <Position x="-2.199996" y="2" z="-5.5" />
+                <Rotation x="1.788139E-07" y="-9.734377E-08" z="-1.450433E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="613d6044-1081-4698-b733-6a091785d0ba">
+            <Transform>
+                <Position x="2.200003" y="2" z="-5.5" />
+                <Rotation x="1.78814E-07" y="1.708771E-07" z="-1.450432E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="b18272b9-a31b-4945-a4c8-85e862094ad7">
+            <Transform>
+                <Position x="0.700001" y="-1" z="2.700001" />
+                <Rotation x="2.387949E-08" y="-0.7071067" z="1.236345E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-3.700003</X>
+                    <Y>1.000001</Y>
+                    <Z>3.400001</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="a41872aa-5c38-428c-9be6-6ef108d988d5">
+            <Transform>
+                <Position x="-0.699999" y="-1" z="2.699999" />
+                <Rotation x="-2.806073E-09" y="0.7071069" z="1.236345E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>3.699999</X>
+                    <Y>0.9999987</Y>
+                    <Z>3.400002</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="e18934aa-16d5-444f-8420-9260817cdc7d">
+            <Transform>
+                <Position x="-2.199998" y="-0.5" z="-6" />
+                <Rotation x="-0.7071068" y="3.37287E-08" z="-4.186625E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="5" guid="23fb38ca-115d-4d75-83f3-27d17732caa7">
+            <Transform>
+                <Position x="2.200001" y="-0.5" z="-6" />
+                <Rotation x="-0.7071068" y="2.233894E-07" z="-2.290016E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="7" guid="628a7655-b234-482e-9fdb-bfc2e061561c">
+            <Transform>
+                <Position x="1.2" y="1" z="3.2" />
+                <Rotation x="0" y="0" z="3.496912E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.4</X>
+                    <Y>0.5000017</Y>
+                    <Z>-0.5</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="1a1cf009-45d9-4be1-b7a5-22388d46e8ee">
+            <Transform>
+                <Position x="-1.2" y="1" z="3.2" />
+                <Rotation x="0" y="0" z="3.496912E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.4</X>
+                    <Y>0.4999983</Y>
+                    <Z>-0.5</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="f940542b-4971-4b96-a7fb-ecd20a85d66a">
+            <Transform>
+                <Position x="-2.200001" y="-0.5" z="-2.5" />
+                <Rotation x="-0.7071068" y="-3.371748E-07" z="-4.775904E-08" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="5" guid="599e0edd-6196-42be-a80c-ff4c429f437d">
+            <Transform>
+                <Position x="2.199999" y="-0.5" z="-2.5" />
+                <Rotation x="-0.7071068" y="-1.47514E-07" z="1.419019E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="16" guid="4ad2b3c4-e9f6-496f-ad8c-d653f8d05172">
+            <Transform>
+                <Position x="2.199999" y="0.5" z="-2.5" />
+                <Rotation x="-0.7071068" y="-2.387953E-08" z="2.655364E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="f6dacf97-7acd-423b-82f4-9c25ecd76763">
+            <Transform>
+                <Position x="-2.200002" y="0.5" z="-2.5" />
+                <Rotation x="-0.7071068" y="-2.135402E-07" z="7.587546E-08" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Single key="bmt-spring">0.5</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="df8ded7e-6a7d-4d9a-8b46-4dfe67d93a4c">
+            <Transform>
+                <Position x="-2.700003" y="2" z="-2.5" />
+                <Rotation x="4.214673E-08" y="-0.7071069" z="2.472689E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.500001</X>
+                    <Y>-4.170957E-08</Y>
+                    <Z>-5.424023E-06</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="b05de756-3036-4b4a-b38b-cee5b634e2e9">
+            <Transform>
+                <Position x="2.699998" y="2" z="-2.5" />
+                <Rotation x="-7.269138E-14" y="0.7071069" z="2.894158E-07" w="0.7071067" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.5</X>
+                    <Y>-1.090783E-06</Y>
+                    <Z>6.198884E-06</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="7e18ad85-67ef-43cd-9bef-6b612e4e7532">
+            <Transform>
+                <Position x="2.199998" y="2" z="-2" />
+                <Rotation x="1.78814E-07" y="1.708772E-07" z="3.794935E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.4</X>
+                    <Y>0.5000036</Y>
+                    <Z>-0.5000019</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="d3358380-70e8-40a6-a756-114cf8cfdf97">
+            <Transform>
+                <Position x="-2.200002" y="2" z="-2" />
+                <Rotation x="1.788139E-07" y="-9.734372E-08" z="3.794933E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.400001</X>
+                    <Y>0.499997</Y>
+                    <Z>-0.5000003</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="42" guid="f3f1959f-976f-4943-9aaf-13f1ed3f087d">
+            <Transform>
+                <Position x="2.2" y="1.5" z="2.7" />
+                <Rotation x="-0.7071069" y="8.148765E-08" z="2.079282E-07" w="0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="42" guid="4d2f8fbc-1363-4d50-9447-4b1255269e76">
+            <Transform>
+                <Position x="-2.2" y="1.5" z="2.7" />
+                <Rotation x="-0.7071067" y="3.934077E-08" z="1.657814E-07" w="0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data />
+        </Block>
+        <Block id="7" guid="b13f92c0-3de4-4a7a-983f-83c14264c6c3">
+            <Transform>
+                <Position x="2.200001" y="-1" z="3.2" />
+                <Rotation x="-1.639127E-07" y="2.384186E-07" z="3.387583E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.555713E-06</X>
+                    <Y>3</Y>
+                    <Z>2.682207E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="34d3d202-57ca-4523-b3b1-f9b5e1483199">
+            <Transform>
+                <Position x="-2.2" y="-1" z="3.2" />
+                <Rotation x="1.788139E-07" y="8.940692E-08" z="2.493514E-07" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.496108E-06</X>
+                    <Y>3</Y>
+                    <Z>-3.576276E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="eceb5668-074e-4329-ace1-698948c5ab1e">
+            <Transform>
+                <Position x="2.2" y="-1" z="2.2" />
+                <Rotation x="1.093279E-08" y="1" z="-1.639128E-07" w="-2.384186E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>5.424338E-07</X>
+                    <Y>3</Y>
+                    <Z>-2.682207E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="9811b25d-0bdc-4d50-838b-54b9c3e770fd">
+            <Transform>
+                <Position x="-2.2" y="-1" z="2.2" />
+                <Rotation x="1.003397E-07" y="1" z="1.788139E-07" w="-8.940698E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Settings>
+                <Skin name="default" id="default" />
+            </Settings>
+            <Data>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.078876E-06</X>
+                    <Y>3</Y>
+                    <Z>3.576281E-07</Z>
+                </Vector3>
+            </Data>
+        </Block>
+    </Blocks>
+</Machine>
